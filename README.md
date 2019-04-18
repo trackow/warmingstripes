@@ -11,8 +11,8 @@ Inspired by the warming stripes by [Ed Hawkins](https://www.climate-lab-book.ac.
 ![Bremen](./stripes_bremen.png)
 
 
-### Arctic Sea Ice Extent, 1979-2018, using (vmin,vmax)=(3.49, 7.7)=(blue,white)
+### Arctic Sea Ice Extent, September 1979-2018, using (vmin,vmax)=(3.49, 7.7)=(blue,white)
 ![Arctic SIE](./AWI_meltingstripes_NH09_realvmin.png)
 
-### Arctic Sea Ice Extent, 1979-2018, using (vmin,vmax)=(0, 7.7)=(blue,white)
+### Arctic Sea Ice Extent, September 1979-2018, using (vmin,vmax)=(0, 7.7)=(blue,white)
 ![Arctic SIE](./AWI_meltingstripes_NH09_vmin0.png)
